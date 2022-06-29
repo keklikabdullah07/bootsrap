@@ -1,0 +1,12 @@
+.nav-pills>li>a.nav-link:hover{
+    background-color: #FFA900;
+    color: black;
+    
+}
+.nav-pills>li>a.nav-link{
+    color: white;
+    font-family: 'Times New Roman', Times, serif   ;
+}
+body{
+    background-color: rgba(209, 209, 209, 0.322);
+}
